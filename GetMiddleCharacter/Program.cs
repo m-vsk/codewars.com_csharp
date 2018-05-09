@@ -10,6 +10,7 @@ namespace GetMiddleCharacter
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
