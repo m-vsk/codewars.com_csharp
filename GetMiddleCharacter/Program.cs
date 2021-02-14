@@ -15,6 +15,7 @@ namespace GetMiddleCharacter
             Console.WriteLine(Kata.getMiddle("testing"));
             Console.WriteLine(Kata.getMiddle("middle"));
             Console.WriteLine(Kata.getMiddle("A"));
+            Console.WriteLine(Kata.getMiddle("B"));
 
             Console.ReadKey();
         }
